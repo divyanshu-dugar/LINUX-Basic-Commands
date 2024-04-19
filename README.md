@@ -1,2 +1,2 @@
 # LINUX-Basic-Commands
-This Repository has all the Basic Linux commands commonly used
+This repository contains a comprehensive list of commonly used basic commands for both Linux and Windows operating systems. It includes a comparison between equivalent commands, illustrating how tasks can be accomplished on both platforms. Whether you're a Linux or Windows user, this resource offers valuable insights into performing various operations efficiently across different environments.
